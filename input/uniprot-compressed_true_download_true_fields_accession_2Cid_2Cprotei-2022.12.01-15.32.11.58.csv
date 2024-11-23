@@ -1,0 +1,39 @@
+﻿From,Entry,Entry Name,Protein names,Gene Names
+Q9Z0F7,Q9Z0F7,SYUG_MOUSE,Gamma-synuclein (Persyn),Sncg Persyn
+P48025,P48025,KSYK_MOUSE,Tyrosine-protein kinase SYK (EC 2.7.10.2) (Spleen tyrosine kinase),Syk ptk72 Sykb
+P70429,P70429,EVL_MOUSE,Ena/VASP-like protein (Ena/vasodilator-stimulated phosphoprotein-like),Evl
+Q9CQI6,Q9CQI6,COTL1_MOUSE,Coactosin-like protein,Cotl1 Clp
+Q9WTQ5,Q9WTQ5,AKA12_MOUSE,A-kinase anchor protein 12 (AKAP-12) (Germ cell lineage protein gercelin) (Src-suppressed C kinase substrate) (SSeCKS),Akap12 Gag12 Ssecks
+Q9Z0P4,Q9Z0P4,PALM_MOUSE,Paralemmin-1 (Paralemmin),Palm
+Q80SU7,Q80SU7,GVIN1_MOUSE,Interferon-induced very large GTPase 1 (Very large-inducible GTPase-1) (VLIG-1),Gvin1
+O55239,O55239,NNMT_MOUSE,Nicotinamide N-methyltransferase (EC 2.1.1.1),Nnmt
+Q91VJ2,Q91VJ2,CAVN3_MOUSE,Caveolae-associated protein 3 (Cavin-3) (Protein kinase C delta-binding protein) (Serum deprivation response factor-related gene product that binds to C-kinase),Cavin3 Prkcdbp Srbc
+P10107,P10107,ANXA1_MOUSE,Annexin A1 (Annexin I) (Annexin-1) (Calpactin II) (Calpactin-2) (Chromobindin-9) (Lipocortin I) (Phospholipase A2 inhibitory protein) (p35) [Cleaved into: Annexin Ac2-26],Anxa1 Anx1 Lpc-1 Lpc1
+P49817,P49817,CAV1_MOUSE,Caveolin-1,Cav1 Cav
+P07759,P07759,SPA3K_MOUSE,Serine protease inhibitor A3K (Serpin A3K) (Contrapsin) (SPI-2),Serpina3k Mcm2 Spi2
+P22599,P22599,A1AT2_MOUSE,Alpha-1-antitrypsin 1-2 (AAT) (Alpha-1 protease inhibitor 2) (Alpha-1-antiproteinase) (Serine protease inhibitor 1-2) (Serine protease inhibitor A1b) (Serpin A1b),Serpina1b Aat2 Dom2 Spi1-2
+E9QA15,E9QA15,E9QA15_MOUSE,Caldesmon 1,Cald1
+Q6Q477,Q6Q477,AT2B4_MOUSE,Plasma membrane calcium-transporting ATPase 4 (PMCA4) (EC 7.2.2.10),Atp2b4
+P07724,P07724,ALBU_MOUSE,Albumin,Alb Alb-1 Alb1
+Q61753,Q61753,SERA_MOUSE,D-3-phosphoglycerate dehydrogenase (3-PGDH) (EC 1.1.1.95) (A10),Phgdh
+Q8C5W0,Q8C5W0,CLMN_MOUSE,Calmin (Calponin-like transmembrane domain protein),Clmn
+Q8BTM8,Q8BTM8,FLNA_MOUSE,Filamin-A (FLN-A) (Actin-binding protein 280) (ABP-280) (Alpha-filamin) (Endothelial actin-binding protein) (Filamin-1) (Non-muscle filamin),Flna Fln Fln1
+Q70FJ1,Q70FJ1,AKAP9_MOUSE,A-kinase anchor protein 9 (AKAP-9) (Protein kinase A-anchoring protein 9) (PRKA9),Akap9 Kiaa0803
+P70460,P70460,VASP_MOUSE,Vasodilator-stimulated phosphoprotein (VASP),Vasp
+P23819,P23819,GRIA2_MOUSE,"Glutamate receptor 2 (GluR-2) (AMPA-selective glutamate receptor 2) (GluR-B) (GluR-K2) (Glutamate receptor ionotropic, AMPA 2) (GluA2)",Gria2 Glur2
+P70302,P70302,STIM1_MOUSE,Stromal interaction molecule 1,Stim1 Sim
+P63030,P63030,MPC1_MOUSE,Mitochondrial pyruvate carrier 1 (Brain protein 44-like protein),Mpc1 Brp44l
+O35857,O35857,TIM44_MOUSE,Mitochondrial import inner membrane translocase subunit TIM44,Timm44 Mimt44 Tim44
+P53395,P53395,ODB2_MOUSE,"Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial (EC 2.3.1.168) (Branched-chain alpha-keto acid dehydrogenase complex component E2) (BCKAD-E2) (BCKADE2) (Dihydrolipoamide acetyltransferase component of branched-chain alpha-keto acid dehydrogenase complex) (Dihydrolipoamide branched chain transacylase) (Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase)",Dbt
+Q8WTY4,Q8WTY4,CPIN1_MOUSE,Anamorsin (Cytokine-induced apoptosis inhibitor 1) (Fe-S cluster assembly protein DRE2 homolog),Ciapin1
+Q9D6J6,Q9D6J6,NDUV2_MOUSE,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial (EC 7.1.1.2) (NADH-ubiquinone oxidoreductase 24 kDa subunit)",Ndufv2
+Q8K3J1,Q8K3J1,NDUS8_MOUSE,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial (EC 7.1.1.2) (Complex I-23kD) (CI-23kD) (NADH-ubiquinone oxidoreductase 23 kDa subunit)",Ndufs8
+Q91ZA3,Q91ZA3,PCCA_MOUSE,"Propionyl-CoA carboxylase alpha chain, mitochondrial (PCCase subunit alpha) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit alpha)",Pcca
+Q8VHQ9,Q8VHQ9,ACO11_MOUSE,Acyl-coenzyme A thioesterase 11 (Acyl-CoA thioesterase 11) (EC 3.1.2.-) (Acyl-CoA thioester hydrolase 11) (Adipose-associated thioesterase) (Brown fat-inducible thioesterase) (BFIT) (Palmitoyl-coenzyme A thioesterase) (EC 3.1.2.2),Acot11 Bfit Thea
+Q8R1S0,Q8R1S0,COQ6_MOUSE,"Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial (EC 1.14.13.-) (Coenzyme Q10 monooxygenase 6)",Coq6
+Q9ER39,Q9ER39,TOR1A_MOUSE,Torsin-1A (Dystonia 1 protein) (Torsin ATPase 1) (EC 3.6.4.-) (Torsin family 1 member A),Tor1a Dyt1
+Q9D2G2,Q9D2G2,ODO2_MOUSE,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2) (OGDC-E2) (Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex) (E2K)",Dlst
+Q149B8,Q149B8,PERM1_MOUSE,PGC-1 and ERR-induced regulator in muscle protein 1 (PPARGC1 and ESRR-induced regulator in muscle 1) (Peroxisome proliferator-activated receptor gamma coactivator 1 and estrogen-related receptor-induced regulator in muscle 1),Perm1
+E9Q3H6,E9Q3H6,E9Q3H6_MOUSE,Coenzyme Q10A,Coq10a
+Q99LC5,Q99LC5,ETFA_MOUSE,"Electron transfer flavoprotein subunit alpha, mitochondrial (Alpha-ETF)",Etfa
+Q3V037,Q3V037,CF163_MOUSE,Uncharacterized protein C6orf163 homolog,Gm136

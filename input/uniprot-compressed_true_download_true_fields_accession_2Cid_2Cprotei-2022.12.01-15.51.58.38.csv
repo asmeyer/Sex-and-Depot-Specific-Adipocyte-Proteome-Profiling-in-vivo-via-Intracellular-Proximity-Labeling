@@ -1,0 +1,105 @@
+﻿From,Entry,Entry Name,Protein names,Gene Names
+P48025,P48025,KSYK_MOUSE,Tyrosine-protein kinase SYK (EC 2.7.10.2) (Spleen tyrosine kinase),Syk ptk72 Sykb
+P60710,P60710,ACTB_MOUSE,"Actin, cytoplasmic 1 (Beta-actin) (EC 3.6.4.-) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]",Actb
+Q61554,Q61554,FBN1_MOUSE,Fibrillin-1 [Cleaved into: Asprosin],Fbn1 Fbn-1
+P10107,P10107,ANXA1_MOUSE,Annexin A1 (Annexin I) (Annexin-1) (Calpactin II) (Calpactin-2) (Chromobindin-9) (Lipocortin I) (Phospholipase A2 inhibitory protein) (p35) [Cleaved into: Annexin Ac2-26],Anxa1 Anx1 Lpc-1 Lpc1
+Q9CZD3,Q9CZD3,GARS_MOUSE,Glycine--tRNA ligase (EC 6.1.1.14) (Diadenosine tetraphosphate synthetase) (Ap4A synthetase) (EC 2.7.7.-) (Glycyl-tRNA synthetase 1) (GlyRS),Gars1 Gars
+Q8K2K6,Q8K2K6,AGFG1_MOUSE,Arf-GAP domain and FG repeat-containing protein 1 (HIV-1 Rev-binding protein homolog) (Nucleoporin-like protein RIP),Agfg1 Hrb Rip
+Q9JHU2,Q9JHU2,PALMD_MOUSE,Palmdelphin,Palmd
+P17710,P17710,HXK1_MOUSE,"Hexokinase-1 (EC 2.7.1.1) (Hexokinase type I) (HK I) (Hexokinase, tumor isozyme)",Hk1
+P38647,P38647,GRP75_MOUSE,"Stress-70 protein, mitochondrial (75 kDa glucose-regulated protein) (GRP-75) (Heat shock 70 kDa protein 9) (Mortalin) (Peptide-binding protein 74) (PBP74) (p66 MOT)",Hspa9 Grp75 Hsp74 Hspa9a
+Q8R4U7,Q8R4U7,LUZP1_MOUSE,Leucine zipper protein 1 (Leucine zipper motif-containing protein),Luzp1 Luzp
+Q9QZQ8,Q9QZQ8,H2AY_MOUSE,Core histone macro-H2A.1 (Histone macroH2A1) (mH2A1) (H2A.y) (H2A/y),Macroh2a1 H2afy
+Q60865,Q60865,CAPR1_MOUSE,Caprin-1 (Cytoplasmic activation- and proliferation-associated protein 1) (GPI-anchored membrane protein 1) (GPI-anchored protein p137) (GPI-p137) (p137GPI) (Membrane component chromosome 11 surface marker 1) (RNA granule protein 105),Caprin1 Gpiap Gpiap1 Gpip137 M11s1 Rng105 G5E5
+Q99MS7,Q99MS7,EH1L1_MOUSE,EH domain-binding protein 1-like protein 1 (Tangerin),Ehbp1l1
+Q8BGX2,Q8BGX2,TIM29_MOUSE,Mitochondrial import inner membrane translocase subunit Tim29 (TIM29),Timm29
+D3YTP3,D3YTP3,D3YTP3_MOUSE,Metaxin,Mtx3
+Q8BYL4,Q8BYL4,SYYM_MOUSE,"Tyrosine--tRNA ligase, mitochondrial (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS)",Yars2
+Q05D44,Q05D44,IF2P_MOUSE,Eukaryotic translation initiation factor 5B (eIF-5B) (EC 3.6.5.3) (Translation initiation factor IF-2),Eif5b If2
+Q99MR8,Q99MR8,MCCA_MOUSE,"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial (MCCase subunit alpha) (EC 6.4.1.4) (3-methylcrotonyl-CoA carboxylase 1) (3-methylcrotonyl-CoA carboxylase biotin-containing subunit) (3-methylcrotonyl-CoA:carbon dioxide ligase subunit alpha)",Mccc1 Mcca
+Q9CY58,Q9CY58,PAIRB_MOUSE,Plasminogen activator inhibitor 1 RNA-binding protein (PAI1 RNA-binding protein 1) (PAI-RBP1) (SERPINE1 mRNA-binding protein 1),Serbp1 Pairbp1
+P97855,P97855,G3BP1_MOUSE,Ras GTPase-activating protein-binding protein 1 (G3BP-1) (EC 3.6.4.12) (EC 3.6.4.13) (ATP-dependent DNA helicase VIII) (GAP SH3 domain-binding protein 1) (HDH-VIII),G3bp1 G3bp
+P39447,P39447,ZO1_MOUSE,Tight junction protein ZO-1 (Tight junction protein 1) (Zona occludens protein 1) (Zonula occludens protein 1),Tjp1 Zo1
+Q8BGD9,Q8BGD9,IF4B_MOUSE,Eukaryotic translation initiation factor 4B (eIF-4B),Eif4b
+P48193,P48193,EPB41_MOUSE,Protein 4.1 (P4.1) (4.1R) (Band 4.1) (Erythrocyte membrane protein band 4.1),Epb41 Epb4.1 Kiaa4056
+P23819,P23819,GRIA2_MOUSE,"Glutamate receptor 2 (GluR-2) (AMPA-selective glutamate receptor 2) (GluR-B) (GluR-K2) (Glutamate receptor ionotropic, AMPA 2) (GluA2)",Gria2 Glur2
+Q91ZP3,Q91ZP3,LPIN1_MOUSE,Phosphatidate phosphatase LPIN1 (EC 3.1.3.4) (Fatty liver dystrophy protein) (Lipin-1),Lpin1 Flde
+Q9D7N3,Q9D7N3,RT09_MOUSE,"28S ribosomal protein S9, mitochondrial (MRP-S9) (S9mt)",Mrps9
+Q8CHT0,Q8CHT0,AL4A1_MOUSE,"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial (P5C dehydrogenase) (EC 1.2.1.88) (Aldehyde dehydrogenase family 4 member A1) (L-glutamate gamma-semialdehyde dehydrogenase)",Aldh4a1
+Q8BQ46,Q8BQ46,Q8BQ46_MOUSE,"TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor (TATA-box-binding protein-associated factor 15)",Taf15
+P63030,P63030,MPC1_MOUSE,Mitochondrial pyruvate carrier 1 (Brain protein 44-like protein),Mpc1 Brp44l
+Q8BJZ4,Q8BJZ4,RT35_MOUSE,"28S ribosomal protein S35, mitochondrial (MRP-S35) (S35mt)",Mrps35
+Q922B9,Q922B9,ITPI2_MOUSE,Protein ITPRID2 (ITPR-interacting domain-containing protein 2) (Ki-ras-induced actin-interacting protein) (Sperm-specific antigen 2 homolog),Itprid2 Kiaa1927 Krap Ssfa2
+P50247,P50247,SAHH_MOUSE,Adenosylhomocysteinase (AdoHcyase) (EC 3.3.1.1) (CUBP) (Liver copper-binding protein) (S-adenosyl-L-homocysteine hydrolase),Ahcy
+P70302,P70302,STIM1_MOUSE,Stromal interaction molecule 1,Stim1 Sim
+O08739,O08739,AMPD3_MOUSE,AMP deaminase 3 (EC 3.5.4.6) (AMP deaminase H-type) (AMP deaminase isoform E) (Heart-type AMPD),Ampd3
+Q5SW19,Q5SW19,CLU_MOUSE,Clustered mitochondria protein homolog,Cluh Kiaa0664
+Q80ZK0,Q80ZK0,RT10_MOUSE,"28S ribosomal protein S10, mitochondrial (MRP-S10) (S10mt)",Mrps10
+Q8K0Z7,Q8K0Z7,TACO1_MOUSE,Translational activator of cytochrome c oxidase 1 (Coiled-coil domain-containing protein 44) (Translational activator of mitochondrially-encoded cytochrome c oxidase 1),Taco1 Ccdc44
+Q811D0,Q811D0,DLG1_MOUSE,Disks large homolog 1 (Embryo-dlg/synapse-associated protein 97) (E-dlg/SAP97) (Synapse-associated protein 97) (SAP-97) (SAP97),Dlg1 Dlgh1
+Q61733,Q61733,RT31_MOUSE,"28S ribosomal protein S31, mitochondrial (MRP-S31) (S31mt) (Imogen 38)",Mrps31 Imogn38
+P53395,P53395,ODB2_MOUSE,"Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial (EC 2.3.1.168) (Branched-chain alpha-keto acid dehydrogenase complex component E2) (BCKAD-E2) (BCKADE2) (Dihydrolipoamide acetyltransferase component of branched-chain alpha-keto acid dehydrogenase complex) (Dihydrolipoamide branched chain transacylase) (Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase)",Dbt
+Q91YY4,Q91YY4,ATPF2_MOUSE,ATP synthase mitochondrial F1 complex assembly factor 2,Atpaf2
+Q6PB66,Q6PB66,LPPRC_MOUSE,"Leucine-rich PPR motif-containing protein, mitochondrial (130 kDa leucine-rich protein) (LRP 130) (mLRP130)",Lrpprc Lrp130
+O35129,O35129,PHB2_MOUSE,Prohibitin-2 (B-cell receptor-associated protein BAP37) (Repressor of estrogen receptor activity),Phb2 Bap Bcap37 Rea
+Q80UG5,Q80UG5,SEPT9_MOUSE,Septin-9 (SL3-3 integration site 1 protein),Septin9 Kiaa0991 Sept9 Sint1
+Q9D880,Q9D880,TIM50_MOUSE,Mitochondrial import inner membrane translocase subunit TIM50,Timm50 Tim50
+Q14C51,Q14C51,PTCD3_MOUSE,"Pentatricopeptide repeat domain-containing protein 3, mitochondrial (28S ribosomal protein S39, mitochondrial) (MRP-S39)",Ptcd3 Mrps39
+Q8BR92,Q8BR92,PALM2_MOUSE,Paralemmin-2,Palm2
+Q91VD9,Q91VD9,NDUS1_MOUSE,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial (EC 7.1.1.2) (Complex I-75kD) (CI-75kD)",Ndufs1
+A2A5R2,A2A5R2,BIG2_MOUSE,Brefeldin A-inhibited guanine nucleotide-exchange protein 2 (Brefeldin A-inhibited GEP 2) (ADP-ribosylation factor guanine nucleotide-exchange factor 2),Arfgef2 Arfgep2 Big2
+Q8BKZ9,Q8BKZ9,ODPX_MOUSE,"Pyruvate dehydrogenase protein X component, mitochondrial (Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex) (Lipoyl-containing pyruvate dehydrogenase complex component X)",Pdhx
+Q64516,Q64516,GLPK_MOUSE,Glycerol kinase (GK) (Glycerokinase) (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase),Gk Gyk
+Q9Z329,Q9Z329,ITPR2_MOUSE,"Inositol 1,4,5-trisphosphate receptor type 2 (IP3 receptor isoform 2) (IP3R 2) (InsP3R2) (Inositol 1,4,5-trisphosphate type V receptor) (Type 2 inositol 1,4,5-trisphosphate receptor) (Type 2 InsP3 receptor)",Itpr2 Itpr5
+Q99MN9,Q99MN9,PCCB_MOUSE,"Propionyl-CoA carboxylase beta chain, mitochondrial (PCCase subunit beta) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit beta)",Pccb
+Q9D6M3,Q9D6M3,GHC1_MOUSE,Mitochondrial glutamate carrier 1 (GC-1) (Glutamate/H(+) symporter 1) (Solute carrier family 25 member 22),Slc25a22 Gc1
+Q8C8R3,Q8C8R3,ANK2_MOUSE,Ankyrin-2 (ANK-2) (Ankyrin-B) (Brain ankyrin),Ank2 AnkB
+Q91ZA3,Q91ZA3,PCCA_MOUSE,"Propionyl-CoA carboxylase alpha chain, mitochondrial (PCCase subunit alpha) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit alpha)",Pcca
+Q149M0,Q149M0,CL12B_MOUSE,C-type lectin domain family 12 member B,Clec12b
+Q8BGC4,Q8BGC4,PTGR3_MOUSE,Prostaglandin reductase-3 (PTGR-3) (EC 1.3.1.48) (15-oxoprostaglandin 13-reductase) (Zinc-binding alcohol dehydrogenase domain-containing protein 2),Ptgr3 Zadh2
+O08756,O08756,HCD2_MOUSE,3-hydroxyacyl-CoA dehydrogenase type-2 (EC 1.1.1.35) (17-beta-estradiol 17-dehydrogenase) (EC 1.1.1.62) (2-methyl-3-hydroxybutyryl-CoA dehydrogenase) (MHBD) (3-alpha-(17-beta)-hydroxysteroid dehydrogenase (NAD(+))) (EC 1.1.1.239) (3-hydroxy-2-methylbutyryl-CoA dehydrogenase) (EC 1.1.1.178) (3-hydroxyacyl-CoA dehydrogenase type II) (3alpha(or 20beta)-hydroxysteroid dehydrogenase) (EC 1.1.1.53) (7-alpha-hydroxysteroid dehydrogenase) (EC 1.1.1.159) (Endoplasmic reticulum-associated amyloid beta-peptide-binding protein) (Mitochondrial ribonuclease P protein 2) (Mitochondrial RNase P protein 2) (Short chain dehydrogenase/reductase family 5C member 1) (Short-chain type dehydrogenase/reductase XH98G2) (Type II HADH),Hsd17b10 Erab Hadh2
+Q80U63,Q80U63,MFN2_MOUSE,Mitofusin-2 (EC 3.6.5.-) (Hypertension-related protein 1) (Mitochondrial assembly regulatory factor) (HSG protein) (Transmembrane GTPase MFN2),Mfn2 Kiaa0214 Marf
+Q8CC88,Q8CC88,VWA8_MOUSE,von Willebrand factor A domain-containing protein 8,Vwa8 Kiaa0564
+Q9CQA3,Q9CQA3,SDHB_MOUSE,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (EC 1.3.5.1) (Iron-sulfur subunit of complex II) (Ip)",Sdhb
+Q8WTY4,Q8WTY4,CPIN1_MOUSE,Anamorsin (Cytokine-induced apoptosis inhibitor 1) (Fe-S cluster assembly protein DRE2 homolog),Ciapin1
+P68368,P68368,TBA4A_MOUSE,Tubulin alpha-4A chain (EC 3.6.5.-) (Alpha-tubulin 4) (Alpha-tubulin isotype M-alpha-4) (Tubulin alpha-4 chain),Tuba4a Tuba4
+P53986,P53986,MOT1_MOUSE,Monocarboxylate transporter 1 (MCT 1) (Solute carrier family 16 member 1),Slc16a1 Mct1
+Q9DCT2,Q9DCT2,NDUS3_MOUSE,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial (EC 7.1.1.2) (Complex I-30kD) (CI-30kD) (NADH-ubiquinone oxidoreductase 30 kDa subunit)",Ndufs3
+Q3V384,Q3V384,AFG1L_MOUSE,AFG1-like ATPase (EC 3.6.-.-) (Lactation elevated protein 1),Afg1l Lace1
+O08715,O08715,AKAP1_MOUSE,"A-kinase anchor protein 1, mitochondrial (Dual specificity A-kinase-anchoring protein 1) (D-AKAP-1) (Protein kinase A-anchoring protein 1) (PRKA1) (Spermatid A-kinase anchor protein) (S-AKAP)",Akap1 Akap
+Q8K3J1,Q8K3J1,NDUS8_MOUSE,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial (EC 7.1.1.2) (Complex I-23kD) (CI-23kD) (NADH-ubiquinone oxidoreductase 23 kDa subunit)",Ndufs8
+Q8VEM8,Q8VEM8,MPCP_MOUSE,"Phosphate carrier protein, mitochondrial (Phosphate transport protein) (PTP) (Solute carrier family 25 member 3)",Slc25a3
+Q2TPA8,Q2TPA8,HSDL2_MOUSE,Hydroxysteroid dehydrogenase-like protein 2 (EC 1.-.-.-),Hsdl2
+Q91VT4,Q91VT4,CBR4_MOUSE,3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100) (3-ketoacyl-[acyl-carrier-protein] reductase beta subunit) (KAR beta subunit) (Carbonyl reductase family member 4) (CBR4) (Quinone reductase CBR4) (EC 1.6.5.10),Cbr4
+Q78IK4,Q78IK4,MIC27_MOUSE,MICOS complex subunit Mic27 (Apolipoprotein O-like) (Protein FAM121A),Apool Fam121a Mic27
+Q9D6J6,Q9D6J6,NDUV2_MOUSE,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial (EC 7.1.1.2) (NADH-ubiquinone oxidoreductase 24 kDa subunit)",Ndufv2
+Q9WVL3,Q9WVL3,S12A7_MOUSE,Solute carrier family 12 member 7 (Electroneutral potassium-chloride cotransporter 4) (K-Cl cotransporter 4),Slc12a7 Kcc4
+Q8BMS4,Q8BMS4,COQ3_MOUSE,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial (3-demethylubiquinol 3-O-methyltransferase) (EC 2.1.1.64) (Polyprenyldihydroxybenzoate methyltransferase) (EC 2.1.1.114)",Coq3
+P97352,P97352,S10AD_MOUSE,Protein S100-A13 (S100 calcium-binding protein A13),S100a13
+Q9Z0X1,Q9Z0X1,AIFM1_MOUSE,"Apoptosis-inducing factor 1, mitochondrial (EC 1.6.99.-) (Programmed cell death protein 8)",Aifm1 Aif Pdcd8
+O35857,O35857,TIM44_MOUSE,Mitochondrial import inner membrane translocase subunit TIM44,Timm44 Mimt44 Tim44
+Q8BFR5,Q8BFR5,EFTU_MOUSE,"Elongation factor Tu, mitochondrial",Tufm
+Q9Z2I8,Q9Z2I8,SUCB2_MOUSE,"Succinate--CoA ligase [GDP-forming] subunit beta, mitochondrial (EC 6.2.1.4) (GTP-specific succinyl-CoA synthetase subunit beta) (G-SCS) (GTPSCS) (Succinyl-CoA synthetase beta-G chain) (SCS-betaG)",Suclg2
+Q3V037,Q3V037,CF163_MOUSE,Uncharacterized protein C6orf163 homolog,Gm136
+Q9D924,Q9D924,ISCA1_MOUSE,"Iron-sulfur cluster assembly 1 homolog, mitochondrial (HESB-like domain-containing protein 2) (Iron-sulfur assembly protein IscA)",Isca1 Hbld2
+P99028,P99028,QCR6_MOUSE,"Cytochrome b-c1 complex subunit 6, mitochondrial (Complex III subunit 6) (Complex III subunit VIII) (Cytochrome c1 non-heme 11 kDa protein) (Mitochondrial hinge protein) (Ubiquinol-cytochrome c reductase complex 11 kDa protein)",Uqcrh
+Q8R1S0,Q8R1S0,COQ6_MOUSE,"Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial (EC 1.14.13.-) (Coenzyme Q10 monooxygenase 6)",Coq6
+Q60597,Q60597,ODO1_MOUSE,"2-oxoglutarate dehydrogenase complex component E1 (E1o) (OGDC-E1) (OGDH-E1) (EC 1.2.4.2) (2-oxoglutarate dehydrogenase, mitochondrial) (Alpha-ketoglutarate dehydrogenase) (Alpha-KGDH-E1) (Thiamine diphosphate (ThDP)-dependent 2-oxoglutarate dehydrogenase)",Ogdh Kiaa4192
+Q8R2H9,Q8R2H9,PHOP1_MOUSE,Phosphoethanolamine/phosphocholine phosphatase (EC 3.1.3.75),Phospho1
+Q9DC70,Q9DC70,NDUS7_MOUSE,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial (EC 7.1.1.2) (Complex I-20kD) (CI-20kD) (NADH-ubiquinone oxidoreductase 20 kDa subunit)",Ndufs7
+Q9Z2Z6,Q9Z2Z6,MCAT_MOUSE,Mitochondrial carnitine/acylcarnitine carrier protein (Carnitine/acylcarnitine translocase) (CAC) (CACT) (mCAC) (Solute carrier family 25 member 20),Slc25a20 Cac Cact
+Q9D172,Q9D172,GAL3A_MOUSE,"Glutamine amidotransferase-like class 1 domain-containing protein 3, mitochondrial",Gatd3 D10Jhu81e Gatd3a
+Q8VHQ9,Q8VHQ9,ACO11_MOUSE,Acyl-coenzyme A thioesterase 11 (Acyl-CoA thioesterase 11) (EC 3.1.2.-) (Acyl-CoA thioester hydrolase 11) (Adipose-associated thioesterase) (Brown fat-inducible thioesterase) (BFIT) (Palmitoyl-coenzyme A thioesterase) (EC 3.1.2.2),Acot11 Bfit Thea
+P42125,P42125,ECI1_MOUSE,"Enoyl-CoA delta isomerase 1, mitochondrial (EC 5.3.3.8) (3,2-trans-enoyl-CoA isomerase) (Delta(3),Delta(2)-enoyl-CoA isomerase) (D3,D2-enoyl-CoA isomerase) (Dodecenoyl-CoA isomerase)",Eci1 Dci
+Q8JZR0,Q8JZR0,ACSL5_MOUSE,Long-chain-fatty-acid--CoA ligase 5 (EC 6.2.1.3) (Arachidonate--CoA ligase) (EC 6.2.1.15) (Long-chain acyl-CoA synthetase 5) (LACS 5),Acsl5 Facl5
+Q91VA7,Q91VA7,Q91VA7_MOUSE,"Isocitrate dehydrogenase [NAD] subunit, mitochondrial",Idh3b
+E9Q3H6,E9Q3H6,E9Q3H6_MOUSE,Coenzyme Q10A,Coq10a
+Q3TCJ8,Q3TCJ8,CCD69_MOUSE,Coiled-coil domain-containing protein 69,Ccdc69 D11Ertd461e
+O88343,O88343,S4A4_MOUSE,Electrogenic sodium bicarbonate cotransporter 1 (Sodium bicarbonate cotransporter) (Na(+)/HCO3(-) cotransporter) (Solute carrier family 4 member 4),Slc4a4 Nbc1 Nbce1
+P10637,P10637,TAU_MOUSE,Microtubule-associated protein tau (Neurofibrillary tangle protein) (Paired helical filament-tau) (PHF-tau),Mapt Mtapt Tau
+P56501,P56501,UCP3_MOUSE,Mitochondrial uncoupling protein 3 (UCP 3) (Solute carrier family 25 member 9),Ucp3 Slc25a9
+Q8R0Y8,Q8R0Y8,S2542_MOUSE,Mitochondrial coenzyme A transporter SLC25A42 (Solute carrier family 25 member 42),Slc25a42
+Q924L1,Q924L1,LTMD1_MOUSE,LETM1 domain-containing protein 1 (Cervical cancer receptor) (MCC-32),Letmd1 Mccr
+Q149B8,Q149B8,PERM1_MOUSE,PGC-1 and ERR-induced regulator in muscle protein 1 (PPARGC1 and ESRR-induced regulator in muscle 1) (Peroxisome proliferator-activated receptor gamma coactivator 1 and estrogen-related receptor-induced regulator in muscle 1),Perm1
+Q9ER39,Q9ER39,TOR1A_MOUSE,Torsin-1A (Dystonia 1 protein) (Torsin ATPase 1) (EC 3.6.4.-) (Torsin family 1 member A),Tor1a Dyt1
+Q9CQB2,Q9CQB2,MCRI2_MOUSE,MAPK regulated corepressor interacting protein 2 (Protein FAM195A),Mcrip2 Fam195a
